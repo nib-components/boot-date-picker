@@ -9,7 +9,7 @@ A boot component wrapping the functionality to trigger a date picker.
 
 ## API
 
-	`require('boot-date-picker');`
+    require('boot-date-picker');
 
 
 ## License
