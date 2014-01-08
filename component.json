@@ -1,6 +1,6 @@
 {
   "name": "boot-data-picker",
-  "version": "0.0.1"
+  "version": "0.0.1",
   "description": "A boot component wrapping the functionality to trigger a date picker.",
   "dependencies": {
     "nib-components/underscore": "*",
