@@ -1,12 +1,12 @@
 {
   "name": "boot-date-picker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A boot component wrapping the functionality to trigger a date picker.",
   "dependencies": {
     "nib-components/underscore": "*",
     "nib-components/jquery": "*",
     "nib-components/backbone": "*",
-    "nib-components/date-picker": "0.0.3",
+    "nib-components/date-picker": "0.0.4",
     "adamsanderson/trigger-event": "master"
   },
   "scripts": [
